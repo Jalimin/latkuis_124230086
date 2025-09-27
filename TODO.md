@@ -1,0 +1,6 @@
+- [x] Tambahkan url_launcher ke pubspec.yaml
+- [x] Jalankan flutter pub get
+- [x] Buat lib/screen/detail_page.dart dengan DetailPage yang menampilkan data game lengkap
+- [x] Update lib/screen/home_page.dart untuk navigasi ke DetailPage saat item diklik
+- [x] Test navigasi dan tampilan DetailPage
+- [x] Test url_launcher untuk membuka link store
